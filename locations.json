@@ -1,0 +1,46 @@
+{
+  "locations": [
+    {
+      "Id": 1,
+      "latitude": 6.9238,
+      "longitude": 79.8449,
+      "name": "Galle Face Green",
+      "description": "Galle Face is a ocean-side urban park, which stretches for 500 m (1,600 ft) along the coast, in the heart of Colombo"
+    },
+    {
+      "Id": 2,
+      "latitude": 7.2936,
+      "longitude": 80.6413,
+      "name": "Temple of the Tooth",
+      "description": "The Temple of the Sacred Tooth Relic or Sri Dalada Maligawa, (Sinhala: ශ්‍රී දළදා මාළිගාව) is a Buddhist temple in Kandy, Sri Lanka."
+    },
+    {
+      "Id": 3,
+      "latitude": 6.464,
+      "longitude": 81.4719,
+      "name": "Yala national park",
+      "description": "sri lanka's most famous wild life park. among a host of animal"
+    },
+    {
+      "Id": 4,
+      "latitude": 8.5108,
+      "longitude": 81.2115,
+      "name": "Marble Beach",
+      "description": "Marble Beach is an undeveloped beach with no strong commercial atmosphere."
+    },
+    {
+      "Id": 5,
+      "latitude": 6.0272,
+      "longitude": 80.2167,
+      "name": "Galle Fort",
+      "description": "Galle Fort in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese"
+    },
+    {
+      "Id": 6,
+      "latitude": 6.9497,
+      "longitude": 80.7891,
+      "name": "Nuwara Eliya",
+      "description": "Nuwara Eliya is a city in the hill country of the Central Province, Sri Lanka."
+    }
+  ]
+}
