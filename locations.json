@@ -41,6 +41,13 @@
       "longitude": 80.7891,
       "name": "Nuwara Eliya",
       "description": "Nuwara Eliya is a city in the hill country of the Central Province, Sri Lanka."
+    },
+    {
+      "Id": 7,
+      "latitude": 6.4445,
+      "longitude": 80.7491,
+      "name": "Test",
+      "description": "Nuwara Eliya is a city in the hill country of the Central Province, Sri Lanka."
     }
   ]
 }
